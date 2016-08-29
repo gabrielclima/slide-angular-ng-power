@@ -1,6 +1,6 @@
-#GDG Duque de Caxias - Intro
+#AngularJS - ng-power
 
-An introduction presentation for GDG Duque de Caxias events.
+An AngularJS resume presentation for GDG Duque de Caxias events.
 
 GDG Duque de Caxias is a local chapter of Google Developers Group on Duque de Caxias, Rio de Janeiro, Brazil. [Visit our website.](http://gdgduquedecaxias.github.io/)
 
